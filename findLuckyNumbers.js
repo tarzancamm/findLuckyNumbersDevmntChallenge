@@ -13,6 +13,6 @@ let returnRandom = (num) => {
  return emptyArr;
 }
 
-let nNumbers = returnRandom(3);
+let nNumbers = returnRandom(5);
 console.log(nNumbers)
 
